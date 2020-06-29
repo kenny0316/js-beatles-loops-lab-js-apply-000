@@ -1,4 +1,5 @@
 // add solution here
+var 
 Function theBeatlesPlay 
 ('musicians','insruments'); {
 var array = [];
